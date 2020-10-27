@@ -1,2 +1,2 @@
 # Informatikk
-Øvinger og innlevering jeg har hatt!
+Øvinger og innleveringer jeg har hatt!
