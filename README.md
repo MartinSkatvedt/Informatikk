@@ -6,6 +6,7 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 
 - [x] Informasjonsteknologi, grunnkurs (TDT4109)
 - [x] Webteknologi (IT2805)
+  - [Prosjekt](https://github.com/MartinSkatvedt/IT2805-Project)
 - [x] Exphil (EXPH0300)
 - [x] Matematikk 1 (TMA4100)
 
