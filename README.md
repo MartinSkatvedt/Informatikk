@@ -18,3 +18,8 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 - [ ] Menneske maskin-interaksjon (TDT4180)
 - [x] Kommunikasjon - Tjenester og nett (TTM4100)
 
+### 3. Semester
+
+- [ ] Informatikk prosjektarbeid I (IT1901)
+- [ ] Algoritmer og datastrukturer (TDT4120)
+- [ ] Datamaskiner og digitalteknikk (TDT4160)
