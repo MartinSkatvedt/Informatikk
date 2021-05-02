@@ -15,7 +15,7 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 - [x] Elementær diskret matematikk (MA0301)
 - [x] Objektorientert programmering (TDT4100)
   - [Prosjekt](https://github.com/MartinSkatvedt/TDT4100-Project)
-- [ ] Menneske maskin-interaksjon (TDT4180)
+- [x] Menneske maskin-interaksjon (TDT4180)
 - [x] Kommunikasjon - Tjenester og nett (TTM4100)
 
 ### 3. Semester
