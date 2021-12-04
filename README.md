@@ -22,5 +22,12 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 
 - [ ] Informatikk prosjektarbeid I (IT1901)
 - [ ] Algoritmer og datastrukturer (TDT4120)
-- [ ] Datamaskiner og digitalteknikk (TDT4160)
-- [ ] Ledelse (ØKO1001)
+- [x] Datamaskiner og digitalteknikk (TDT4160)
+- [x] Ledelse (ØKO1001)
+
+### 4. Semester
+
+- [ ] Programvareutvikling (TDT4140)
+- [ ] Datamodellering og databasesystemer (TDT4145)
+- [ ] ...
+- [ ] ...
