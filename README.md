@@ -21,6 +21,7 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 ### 3. Semester
 
 - [x] Informatikk prosjektarbeid I (IT1901)
+  - [Prosjekt](https://github.com/MartinSkatvedt/IT1901-Project)
 - [ ] Algoritmer og datastrukturer (TDT4120)
 - [x] Datamaskiner og digitalteknikk (TDT4160)
 - [x] Ledelse (ØKO1001)
@@ -29,5 +30,5 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 
 - [ ] Programvareutvikling (TDT4140)
 - [ ] Datamodellering og databasesystemer (TDT4145)
-- [ ] ...
-- [ ] ...
+- [ ] Operativsystemer (TDT4186)
+- [ ] Anvendt kryptografi og nettverksikkerhet (TTM4135)
