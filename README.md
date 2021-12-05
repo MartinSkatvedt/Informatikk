@@ -20,7 +20,7 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 
 ### 3. Semester
 
-- [ ] Informatikk prosjektarbeid I (IT1901)
+- [x] Informatikk prosjektarbeid I (IT1901)
 - [ ] Algoritmer og datastrukturer (TDT4120)
 - [x] Datamaskiner og digitalteknikk (TDT4160)
 - [x] Ledelse (ØKO1001)
