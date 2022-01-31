@@ -22,7 +22,7 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 
 - [x] Informatikk prosjektarbeid I (IT1901)
   - [Prosjekt](https://github.com/MartinSkatvedt/IT1901-Project)
-- [ ] Algoritmer og datastrukturer (TDT4120)
+- [x] Algoritmer og datastrukturer (TDT4120)
 - [x] Datamaskiner og digitalteknikk (TDT4160)
 - [x] Ledelse (ØKO1001)
 
