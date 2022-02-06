@@ -2,7 +2,7 @@
 
 _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 
-### 1. Semester
+## 1. Semester
 
 - [x] Informasjonsteknologi, grunnkurs (TDT4109)
 - [x] Webteknologi (IT2805)
@@ -10,7 +10,7 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 - [x] Exphil (EXPH0300)
 - [x] Matematikk 1 (TMA4100)
 
-### 2. Semester
+## 2. Semester
 
 - [x] Elementær diskret matematikk (MA0301)
 - [x] Objektorientert programmering (TDT4100)
@@ -18,7 +18,7 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 - [x] Menneske maskin-interaksjon (TDT4180)
 - [x] Kommunikasjon - Tjenester og nett (TTM4100)
 
-### 3. Semester
+## 3. Semester
 
 - [x] Informatikk prosjektarbeid I (IT1901)
   - [Prosjekt](https://github.com/MartinSkatvedt/IT1901-Project)
@@ -26,9 +26,21 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 - [x] Datamaskiner og digitalteknikk (TDT4160)
 - [x] Ledelse (ØKO1001)
 
-### 4. Semester
+## 4. Semester
 
 - [ ] Programvareutvikling (TDT4140)
 - [ ] Datamodellering og databasesystemer (TDT4145)
 - [ ] Operativsystemer (TDT4186)
 - [ ] Anvendt kryptografi og nettverksikkerhet (TTM4135)
+
+## 5. Semester
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
+- [ ] ...
+
+## 6. Semester
+
+- [ ] ...
+- [ ] ...
