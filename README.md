@@ -29,8 +29,9 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 ## 4. Semester
 
 - [ ] Programvareutvikling (TDT4140)
-  - [Prosjekt](https://github.com/MartinSkatvedt/)
+  - [Prosjekt](https://github.com/MartinSkatvedt/TDT4140-Project)
 - [ ] Datamodellering og databasesystemer (TDT4145)
+  - [Prosjekt](https://github.com/MartinSkatvedt/TDT4145-Data-Modelling-and-Database-Systems)
 - [ ] Operativsystemer (TDT4186)
 - [ ] Anvendt kryptografi og nettverksikkerhet (TTM4135)
 
