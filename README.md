@@ -32,15 +32,16 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
   - [Prosjekt](https://github.com/MartinSkatvedt/TDT4140-Project)
 - [x] Datamodellering og databasesystemer (TDT4145)
   - [Prosjekt](https://github.com/MartinSkatvedt/TDT4145-Data-Modelling-and-Database-Systems)
-- [ ] Operativsystemer (TDT4186)
-- [ ] Anvendt kryptografi og nettverksikkerhet (TTM4135)
+- [x] Operativsystemer (TDT4186)
+- [x] Anvendt kryptografi og nettverksikkerhet (TTM4135)
 
 ## 5. Semester
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Brukerkurs i matematikk A (MA0001)
+- [ ] Introduksjon til kunstig intelligens (TDT4136)
+- [ ] Grunnleggende visuell databehandling (TDT4195)
+- [ ] Matematikk 3 (TMA4110)
+- [ ] Webutvikling (IT2810)
 
 ## 6. Semester
 
