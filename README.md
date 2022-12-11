@@ -37,11 +37,11 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 
 ## 5. Semester
 
-- [ ] Brukerkurs i matematikk A (MA0001)
-- [ ] Introduksjon til kunstig intelligens (TDT4136)
-- [ ] Grunnleggende visuell databehandling (TDT4195)
+- [x] Brukerkurs i matematikk A (MA0001)
+- [x] Introduksjon til kunstig intelligens (TDT4136)
+- [x] Grunnleggende visuell databehandling (TDT4195)
 - [ ] Matematikk 3 (TMA4110)
-- [ ] Webutvikling (IT2810)
+- [x] Webutvikling (IT2810)
 
 ## 6. Semester
 
