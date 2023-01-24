@@ -40,10 +40,11 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 - [x] Brukerkurs i matematikk A (MA0001)
 - [x] Introduksjon til kunstig intelligens (TDT4136)
 - [x] Grunnleggende visuell databehandling (TDT4195)
-- [ ] Matematikk 3 (TMA4110)
+- [x] Matematikk 3 (TMA4110)
 - [x] Webutvikling (IT2810)
 
 ## 6. Semester
 
-- [ ] ...
-- [ ] ...
+- [ ] TDT4171 Metoder i kunstig intelligens
+- [ ] MFEL1010 Innføring i medisin for ikke-medisinere
+- [ ] IT2901 Informatikk prosjektarbeid II
