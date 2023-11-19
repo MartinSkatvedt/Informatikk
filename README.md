@@ -48,3 +48,10 @@ _Øvinger og innleveringer jeg har hatt ved Informatikk!_
 - [ ] TDT4171 Metoder i kunstig intelligens
 - [ ] MFEL1010 Innføring i medisin for ikke-medisinere
 - [ ] IT2901 Informatikk prosjektarbeid II
+
+## 7. Semester
+
+- [ ] TDT4173 Maskinlæring
+- [ ] TDT4137 Kognitive arkitekturer
+- [ ] TDT4225 Store distribuerte datamengder
+- [ ] IIK3100 Etisk hacking og penetrasjonstesting
